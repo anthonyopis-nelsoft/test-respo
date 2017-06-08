@@ -1,5 +1,5 @@
 <?php 
 
-echo PHP_OS();
+  echo PHP_OS();
 
 ?>
