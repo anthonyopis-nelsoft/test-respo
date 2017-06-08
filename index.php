@@ -1,5 +1,9 @@
-<?php 
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Practice Learnings</title>
+</head>
+<body>
 
-  echo PHP_OS();
-
-?>
+</body>
+</html>
